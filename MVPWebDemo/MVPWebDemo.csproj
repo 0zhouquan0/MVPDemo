@@ -77,6 +77,7 @@
   <ItemGroup>
     <Content Include="EmployeeManage.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="Img\result.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
